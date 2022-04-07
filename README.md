@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maddieijams
 - 👀 I’m interested in all things JavaScript and React
-- 🌱 I’m currently learning GraphQL, React Native, C#, and Docker
+- 🌱 I’m currently learning GraphQL, Gatsby, C#, and Docker
 - 📫 You can reach me through my LinkedIn at https://www.linkedin.com/in/maddie-ijams/
 
 <!---
